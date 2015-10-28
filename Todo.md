@@ -1,0 +1,1 @@
+  * Lexical scoping - Done. See the lexical\_scope branch and [Scope](Scope.md) page
